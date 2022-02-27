@@ -8,6 +8,7 @@ import java.util.Collections;
 import java.util.LinkedList;
 import java.util.StringTokenizer;
 
+
 public class BOJ_S2_2304_창고다각형 {
 	private static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	private static StringTokenizer st;
